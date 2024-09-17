@@ -4,9 +4,15 @@ Welcome to our GitHub repository, your one-stop destination for a curated collec
 
 =======================================
 
+
+
 Ai Video Generator:
 
 1) https://lumalabs.ai/dream-machine
+
+AI Animated Video Generator :
+
+1) https://haiper-ai.com/
 
 AI Video /Image Editing :
 1) https://vmake.ai/
