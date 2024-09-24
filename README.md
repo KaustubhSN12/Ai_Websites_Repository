@@ -9,6 +9,8 @@ Welcome to our GitHub repository, your one-stop destination for a curated collec
 Ai Video Generator:
 
 1) https://lumalabs.ai/dream-machine
+2) https://hailuoai.video/
+3) https://openai.com/index/sora/
 
 AI Animated Video Generator :
 
@@ -16,6 +18,10 @@ AI Animated Video Generator :
 
 AI Video /Image Editing :
 1) https://vmake.ai/
+
+Image to 3d model generator
+1) https://www.tripo3d.ai/
+2) https://www.krea.ai/home
 
 =======================================
 
